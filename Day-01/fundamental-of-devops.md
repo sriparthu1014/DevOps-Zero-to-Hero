@@ -31,5 +31,7 @@ The main Key featire of DevOps are:-
 ![maxresdefault](https://github.com/sriparthu1014/DevOps-Zero-to-Hero/assets/139961068/2e356055-c8ca-4620-b0e1-1f3735f0b59c)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Happy Learning**
+
 **Thanks For Reading**
+
 **Sri Parthu**💝🤩
