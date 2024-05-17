@@ -10,11 +10,12 @@
 
 The main Key featire of DevOps are:-
 
-1 . **Collaboration**:- Encouraging close collaboration and communication between Developer & Operation team and other stackholders.
-2 . **Automation**:- Using automation tools like Continuous Integration and Continuous Deployment (CI/CD) and Infrastructure as Code (IaC) and more.
-3 . **Continuous Integration and Continuous Deployment**:- When code changes are integrated to a shared repository(CI) and application automatically deploy to production environment(CD) through automated pipeline.
-4 . **Infrastructure as code**:- Treating infrastructure as including services and network and enable automated provisioning and management through configuration in written in file.
-5 . **Monitoring and observibility**:- Continuous monitoring on performance, relability, health check of infrastructure and applictaion and observing various metric, logs, events to identify and fix the promblem.
+- **Collaboration**:- Encouraging close collaboration and communication between Developer & Operation team and other stackholders.
 
+- **Automation**:- Using automation tools like Continuous Integration and Continuous Deployment (CI/CD) and Infrastructure as Code (IaC) and more.
 
+- **Continuous Integration and Continuous Deployment**:- When code changes are integrated to a shared repository(CI) and application automatically deploy to production environment(CD) through automated pipeline.
 
+- **Infrastructure as code**:- Treating infrastructure as including services and network and enable automated provisioning and management through configuration in written in file.
+
+- **Monitoring and observibility**:- Continuous monitoring on performance, relability, health check of infrastructure and applictaion and observing various metric, logs, events to identify and fix the promblem.
