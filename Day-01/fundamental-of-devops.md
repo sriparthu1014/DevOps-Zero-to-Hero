@@ -15,3 +15,6 @@ The main Key featire of DevOps are:-
 3 . **Continuous Integration and Continuous Deployment**:- When code changes are integrated to a shared repository(CI) and application automatically deploy to production environment(CD) through automated pipeline.
 4 . **Infrastructure as code**:- Treating infrastructure as including services and network and enable automated provisioning and management through configuration in written in file.
 5 . **Monitoring and observibility**:- Continuous monitoring on performance, relability, health check of infrastructure and applictaion and observing various metric, logs, events to identify and fix the promblem.
+
+
+
