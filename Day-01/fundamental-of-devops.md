@@ -20,12 +20,12 @@ The main Key featire of DevOps are:-
 
 - **Monitoring and observibility**:- Continuous monitoring on performance, relability, health check of infrastructure and applictaion and observing various metric, logs, events to identify and fix the promblem.
 
+### DevOps is only related to Delivery !
+- DevOps is not only about delivery but it is also focuses on delivery, deployment and some other important tools like Automation, Testing, Quality and Monitoring.
+
 ### Understanding of DevOps
 - DevOps is mainly focusing in practices and culture accepts to improving organization ability to deploy application efficiently. creating the culture of collaboration, communication and automation is at the heart of DevOps to streamline the software delivery process.
 
 - The main goal of DevOps is to automate the manual procedure and enable continuous integration, delivery, deployment and break down the wall between developer and operation team. It can achieved through collection of practices, approaches and tools. With this organization can achieve better customer staisfaction and happines, improving quality of application and increase the scaleablity of application and fast-time to deploy application in the market by implementing DevOps concepts.
 
 ![maxresdefault](https://github.com/sriparthu1014/DevOps-Zero-to-Hero/assets/139961068/2e356055-c8ca-4620-b0e1-1f3735f0b59c)
-
-### DevOps is only related to Delivery !
-- DevOps is not only about delivery but it is also focuses on delivery, deployment and some other important tools like Automation, Testing, Quality and Monitoring.  
